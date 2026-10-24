@@ -112,11 +112,11 @@ export default function Home() {
           <div className="flex items-center justify-between h-16 sm:h-18">
             <a href="#" className="flex items-center gap-2 group">
               <span className="flex items-center justify-center w-10 h-10 rounded-full bg-blue-800 text-white font-bold text-lg group-hover:bg-blue-900 transition-colors">
-                TOG
+                TG
               </span>
               <div className="leading-tight">
                 <span className="block font-bold text-slate-900 text-lg tracking-tight">
-                  That One Guy
+                  That Guy!
                 </span>
                 <span className="block text-xs text-slate-500 font-medium">
                   Junk Hauling • Chula Vista
@@ -138,7 +138,7 @@ export default function Home() {
               </a>
             </nav>
             <a
-              href="tel:+16195550123"
+              href="tel:+18584396109"
               className="inline-flex items-center gap-2 rounded-full bg-orange-500 hover:bg-orange-600 text-white text-sm font-semibold px-4 py-2.5 shadow-sm transition-colors"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -165,7 +165,7 @@ export default function Home() {
                 <span className="text-orange-400">Stress free.</span>
               </h1>
               <p className="mt-6 text-lg sm:text-xl text-blue-100 leading-relaxed max-w-xl">
-                That One Guy provides fast, affordable junk hauling in Chula Vista.
+                That Guy! provides fast, affordable junk hauling in Chula Vista.
                 From single items to full cleanouts — we show up, we work hard,
                 and we leave your space clean.
               </p>
@@ -180,10 +180,10 @@ export default function Home() {
                   </svg>
                 </a>
                 <a
-                  href="tel:+16195550123"
+                  href="tel:+18584396109"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold px-8 py-3.5 transition-colors"
                 >
-                  (619) 555-0123
+                  (858) 439-6109
                 </a>
               </div>
               <div className="mt-12 flex flex-wrap gap-6 text-sm text-blue-200">
@@ -248,7 +248,7 @@ export default function Home() {
             <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
               <div>
                 <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 tracking-tight">
-                  Why choose That One Guy?
+                  Why choose That Guy?
                 </h2>
                 <p className="mt-4 text-lg text-slate-600 leading-relaxed">
                   We’re not a faceless franchise. We’re a local crew that takes pride in
@@ -378,7 +378,7 @@ export default function Home() {
                 </p>
                 <div className="mt-10 space-y-5">
                   <a
-                    href="tel:+16195550123"
+                    href="tel:+18584396109"
                     className="flex items-center gap-4 group"
                   >
                     <span className="flex items-center justify-center w-12 h-12 rounded-full bg-orange-500 group-hover:bg-orange-600 transition-colors">
@@ -389,7 +389,7 @@ export default function Home() {
                     <div>
                       <p className="text-sm text-slate-400">Call or text</p>
                       <p className="font-semibold text-lg group-hover:text-orange-300 transition-colors">
-                        (619) 555-0123
+                        (858) 439-6109
                       </p>
                     </div>
                   </a>
@@ -401,7 +401,7 @@ export default function Home() {
                     </span>
                     <div>
                       <p className="text-sm text-slate-400">Email</p>
-                      <p className="font-semibold text-lg">hello@thatoneguyhauling.com</p>
+                      <p className="font-semibold text-lg">hello@thatguyhauling.com</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">
@@ -472,7 +472,7 @@ export default function Home() {
                           value={formData.phone}
                           onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                           className="w-full rounded-lg border border-slate-300 px-3.5 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                          placeholder="(619) 555-0123"
+                          placeholder="(858) 439-6109"
                         />
                       </div>
                     </div>
@@ -543,12 +543,12 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <span className="flex items-center justify-center w-8 h-8 rounded-full bg-blue-800 text-white font-bold text-sm">
-                TOG
+                TG
               </span>
-              <span className="font-semibold text-white">That One Guy</span>
+              <span className="font-semibold text-white">That Guy!</span>
             </div>
             <p className="text-sm text-center sm:text-right">
-              © {new Date().getFullYear()} That One Guy Junk Hauling. Chula Vista, CA.
+              © {new Date().getFullYear()} That Guy! Junk Hauling. Chula Vista, CA.
               <br className="sm:hidden" /> Local • Reliable • Fair.
             </p>
           </div>

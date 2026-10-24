@@ -1,6 +1,6 @@
-# That One Guy — Junk Hauling
+# That Guy! — Junk Hauling
 
-Professional marketing website for **That One Guy**, a local junk hauling service based in Chula Vista, California.
+Professional marketing website for **That Guy!**, a local junk hauling service based in Chula Vista, California.
 
 ## Features
 
@@ -46,5 +46,5 @@ The easiest way to deploy is with [Vercel](https://vercel.com):
 
 ## Notes
 
-- Phone number and email are placeholders — replace with real contact info before going live.
+- Phone: (858) 439-6109 (update email if needed).
 - The quote form currently simulates submission. Connect it to Formspree, Resend, or your own API for production use.
