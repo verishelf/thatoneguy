@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "That Guy! | Junk Hauling in Chula Vista, CA",
+  title: "That Guy Hauling | Junk Hauling in Chula Vista, CA",
   description:
-    "Reliable, affordable junk removal and hauling services in Chula Vista and South Bay San Diego. Same-day service available. Call That Guy! today!",
+    "Reliable, affordable junk removal and hauling services in Chula Vista and South Bay San Diego. Same-day service available. Call That Guy Hauling today!",
   keywords: [
     "junk hauling Chula Vista",
     "junk removal Chula Vista",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     "construction debris",
   ],
   openGraph: {
-    title: "That Guy! | Junk Hauling Chula Vista",
+    title: "That Guy Hauling | Junk Hauling Chula Vista",
     description:
       "Local junk hauling you can trust. Fast, fair, and friendly service in Chula Vista, CA.",
     type: "website",

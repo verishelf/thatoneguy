@@ -1,6 +1,8 @@
-# That Guy! — Junk Hauling
+# That Guy Hauling
 
-Professional marketing website for **That Guy!**, a local junk hauling service based in Chula Vista, California.
+Professional marketing website for **That Guy Hauling**, a local junk hauling service based in Chula Vista, California.
+
+**Domain:** [thatguyhauling.com](https://thatguyhauling.com)
 
 ## Features
 
@@ -43,8 +45,10 @@ The easiest way to deploy is with [Vercel](https://vercel.com):
 1. Push this repo to GitHub
 2. Import the project in Vercel
 3. Deploy
+4. Add custom domain: thatguyhauling.com
 
 ## Notes
 
-- Phone: (858) 439-6109 (update email if needed).
+- Phone: (858) 439-6109
+- Email: hello@thatguyhauling.com
 - The quote form currently simulates submission. Connect it to Formspree, Resend, or your own API for production use.
