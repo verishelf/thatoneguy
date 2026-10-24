@@ -548,7 +548,7 @@ export default function Home() {
               <span className="font-semibold text-white">That Guy!</span>
             </div>
             <p className="text-sm text-center sm:text-right">
-              © {new Date().getFullYear()} That Guy! Junk Hauling. Chula Vista, CA.
+              © 2026 That Guy! Junk Hauling. Chula Vista, CA.
               <br className="sm:hidden" /> Local • Reliable • Fair.
             </p>
           </div>
